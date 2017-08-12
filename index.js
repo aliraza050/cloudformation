@@ -8,6 +8,8 @@ exports.handler = (event, context, callback) => {
         Hello This is test
         
         This is master Test
+        
+        THis is test3
         body: 'The time in Los Angeles is: ' + currentTime.toString(),
     });
 };
